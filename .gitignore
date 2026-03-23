@@ -1,2 +1,5 @@
-# --- [IDE 설정] ---
+# --- [IDE & Editor Settings] ---
 .vscode/
+.claude
+
+06_Crawling/**/*.csv
