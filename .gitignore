@@ -1,5 +1,6 @@
-# --- [IDE 설정] ---
+# --- [IDE & Editor Settings] ---
 .vscode/
+.claude
 
 # --- [크롤링 데이터] ---
 06_Crawling/**/*.csv
