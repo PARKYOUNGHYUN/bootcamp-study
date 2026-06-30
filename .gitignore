@@ -2,4 +2,8 @@
 .vscode/
 .claude
 
+# --- [크롤링 데이터] ---
 06_Crawling/**/*.csv
+
+# --- [환경 변수 설정] ---
+.env
