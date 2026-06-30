@@ -1,4 +1,4 @@
-# 📵 숏폼 사용 패턴과 조절 어려움의 관계 분석 결론 정리
+# shortform_regulation_risk_analysis
 ## 소주제 4 — 숏폼 사용 패턴과 조절 어려움의 관계 분석
 
 ---
