@@ -2,8 +2,17 @@
 .vscode/
 .claude
 
+# --- [환경 변수 설정] ---
+.env
+
 # --- [크롤링 데이터] ---
 06_Crawling/**/*.csv
 
-# --- [환경 변수 설정] ---
-.env
+# --- [빅데이터 프로젝트 관련] ---
+# 원본 데이터 (대용량 바이너리, data.go.kr에서 재다운로드 가능)
+08_Bigdata/**/data/2024_smartphone_data.xlsx
+
+# 가상환경 / 캐시
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
