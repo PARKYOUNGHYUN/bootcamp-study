@@ -1,4 +1,4 @@
-# hazelnut-anomaly-detection
+# hazelnut_anomaly_detection
 
 MVTec AD `hazelnut` 데이터셋을 이용해 **정상 이미지만으로 학습**한 뒤,
 테스트 이미지의 정상/이상을 판별하고 이상 위치를 시각화하는 프로젝트입니다.
@@ -20,7 +20,7 @@ MVTec AD `hazelnut` 데이터셋을 이용해 **정상 이미지만으로 학습
 ## 폴더 구조
 
 ```
-hazelnut-anomaly-detection/
+hazelnut_anomaly_detection/
 ├── solution.py              # 최종 제출 코드 (멀티스케일 LBP + IF 앙상블)
 ├── README.md
 ├── data/
